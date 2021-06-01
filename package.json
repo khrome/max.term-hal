@@ -1,5 +1,5 @@
 {
-    "name" : "max.terminal-hal",
+    "name" : "max.term-hal",
     "version" : "0.0.1",
     "personality" :{
         "engine" : "eliza",
