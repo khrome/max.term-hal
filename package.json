@@ -1,0 +1,17 @@
+{
+    "name" : "max.terminal-hal",
+    "version" : "0.0.1",
+    "personality" :{
+        "engine" : "eliza",
+        "voice" : "en-us+klatt",
+        "options" : {
+
+        },
+        "config":{
+            "stipple" : true,
+            "blended": true,
+            "alphabet" : "greyscale",
+            "threshold" : 90
+        }
+    }
+}
